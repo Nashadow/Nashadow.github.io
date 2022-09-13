@@ -31,6 +31,9 @@
     padding-left: 70px;    
 }
 
+.main{
+    max-width: 600px;
+}
 
 .question
 {
