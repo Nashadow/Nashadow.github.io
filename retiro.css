@@ -1,6 +1,7 @@
 body{
     background-image: url(first_page.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
         
 }
 
