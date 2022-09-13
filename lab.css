@@ -1,0 +1,71 @@
+#btitle
+{
+    background-color:rgb(57, 120, 255);
+    padding: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#title
+{
+    color: ligh;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+#pop_up
+{
+    padding-left: 70px;
+    display: none;
+}
+#pop_button
+{
+    background-color: lightgreen;
+    padding: 0.5%;
+}
+.correct
+{
+    background-color: lightgreen;
+    padding-left: 70px;    
+}
+
+
+.question
+{
+    padding-left: 70px;
+}
+
+h1
+{
+    padding-top: 60px;
+    padding-left: 70px;
+    padding-bottom: 5px;
+    
+}
+h3
+{
+    padding-top: 5px;
+    padding-left: 70px;
+    font-size: 130%;
+}
+hr
+{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+ul
+{
+    padding-left: 70px;
+    
+}
+button
+{
+    background-color: rgb(184, 217, 255);
+    border: none;
+    font-size: 150%;
+    border-radius: 5%;
+    cursor: pointer;
+}
