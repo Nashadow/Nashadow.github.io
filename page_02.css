@@ -1,0 +1,46 @@
+body{
+    background-image: url(images/blur.jpg);
+    object-fit:contain;
+}
+#img{
+    object-fit: cover;
+    margin-bottom: -30px;
+}
+#picture{
+    width: 100%;
+    border-radius: 20px;
+}
+#nextPage{
+    display: none;
+    text-align: center;
+    color: wheat;
+    text-shadow: 2px 2px black;
+}
+
+h2, h3{
+    display: inline;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 2px 5px black;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+}
+h4{
+    margin: 2px;
+    opacity: 0;
+}
+#name{
+    text-align: center;
+    display: inline;
+}
+main{
+    text-align: center;
+    padding-top: 30px;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+}
+

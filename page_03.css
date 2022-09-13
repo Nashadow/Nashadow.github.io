@@ -1,0 +1,15 @@
+#img{
+    object-fit: cover;
+}
+#picture{
+    width: 100%;
+}
+main{
+    background-color: #0099FF11;
+}
+#ps{
+    text-align: center;
+}
+h1{
+    text-shadow: 3px 3px 3px white;
+}
