@@ -1,0 +1,21 @@
+body{
+    background-image: url('D:/Documents/Programação/HTML/retiro/images/first_page.jpg');
+    background-size: cover;
+        
+}
+
+.coiteiner{
+    background-color: white;
+    height: 50%;
+}
+
+.click{
+    text-align: center;
+}
+main{
+    background-color: blue;
+    display: block;
+    width: 80%%;
+    height: 550px;
+    opacity: 0;
+}
