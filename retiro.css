@@ -1,8 +1,8 @@
 body{
-    background-image: url(first_page.jpg);
-    background-size: cover;
+    background-image: url('images/first_page.jpg');
     background-repeat: no-repeat;
-        
+    background-size: cover;
+    background-position: center;
 }
 
 .coiteiner{
