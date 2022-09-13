@@ -32,7 +32,9 @@
 }
 
 .main{
-    max-width: 50%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .question
