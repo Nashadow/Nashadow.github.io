@@ -2,6 +2,8 @@ body{
     background-image: url(images/blur.jpg);
     object-fit:contain;
 }
+
+
 #img{
     object-fit: cover;
     margin-bottom: -30px;
@@ -50,3 +52,17 @@ p{
     text-shadow: 2px 2px 2px black;
 }
 
+button{
+    background-color: #23861f;
+    font-weight: bold;
+    color: white;
+    border-radius: 0.4rem;
+    width: 20%;
+    height: 25px;
+}
+
+input{
+    border-radius: 0.4rem;
+    width: 60%;
+    height: 20px;
+}
