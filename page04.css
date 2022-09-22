@@ -79,3 +79,8 @@ p {
     width: 100px;
     
 }
+
+select {
+   background: #00000066;
+   color: white; 
+}

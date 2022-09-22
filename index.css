@@ -1,0 +1,102 @@
+body::before {
+    content: '';
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(180deg, rgb(70, 150, 255), rgb(255, 255, 255));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+body {
+    color: white;
+    padding: 5px;
+}
+
+p, h1 {
+    font-size: larger;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.imgContainer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.imgContainer img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 3px;
+    margin: 0;
+    background: #023e97c2;
+    color: white;
+}
+
+input::placeholder {
+    color: #ffffff;
+}
+
+fieldset {
+    border: none;
+    margin: auto;
+}
+
+.form {    
+    width: 100%;
+    text-shadow: 2px 2px 2px black;
+    margin: auto;
+}
+
+.submit {
+    width: 70%;
+    background-color: #11940d;
+    margin: 10px auto auto auto;
+    padding: 10px;
+    display: block;
+}
+
+#elias {
+    display: none;
+}
+
+.footer {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.text2 {
+    display: none;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+}

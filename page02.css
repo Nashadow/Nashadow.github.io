@@ -4,6 +4,7 @@
 
 body {
     margin: auto;
+    color: white;
 }
 
 body::before {
@@ -47,11 +48,11 @@ body::before {
     border-bottom: 6px solid #c95b02;
 }
 
-.input {
-    
+.input {    
     width: 100%;
     display: flex;
     justify-content: center;
+    color: white;
     
 }
 
@@ -102,6 +103,16 @@ input{
 .load {
     margin: auto;
     display: block;
+}
+
+#key {
+    background: #00000066;
+    color: white;
+}
+
+#key::placeholder {
+    color: white;
+    opacity: 0.8;
 }
 
 
